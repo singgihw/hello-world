@@ -1,4 +1,4 @@
 # hello-world
-# first repo by me
-# first pull by me
-# this is the edit(1)
+/n first repo by me
+/n first pull by me
+/n this is the edit(1)
